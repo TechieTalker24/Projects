@@ -1,9 +1,11 @@
-# Projects
-Published version of my KB's
+### Hey there 👋
 
-DO NOT follow any of the instructions / guides postsed, do so at you own risk!!!
+#### I'm a Systems engineer, blogger, and Doggo dad who believes in knowledge sharing and helping other to succeed both personally and professionally.
 
-No responsibility will be taken as this is for showcasing purposes only.
+#### Blogs
+- 📝 Find my blog articles (COMING SOON) [here](https://medium.com/@marklowg)
 
-By using anything you accept your own responsibility / risk associated with anything pulbished here.
-
+#### About Me
+- 🌱 My skills are Virtualisation, Infrastructure (On Prem / Cloud), Security, Auomation, MIcorsoft & Linux stacks.
+- 💬 Ask me about **IT Tech**, **Secuirty**  
+- 🎨 In 2022 I started creating resin mould's. still honing in on that skill.
