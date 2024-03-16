@@ -6,6 +6,6 @@
 - 📝 Find my blog articles [here](https://medium.com/@max_65441)
 
 #### About Me
-- 🌱 My skills are Virtualisation, Infrastructure (On Prem / Cloud), Security, Auomation, MIcorsoft & Linux stacks.
+- 🌱 My skills are Virtualisation, Infrastructure (On Prem / Cloud), Security, Automation, Micorsoft & Linux stacks.
 - 💬 Ask me about **IT Tech**, **Secuirty**  
 - 🎨 In 2022 I started creating resin mould's. still honing in on that skill.
