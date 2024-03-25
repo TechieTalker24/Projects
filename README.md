@@ -7,5 +7,6 @@
 
 #### About Me
 - 🌱 My skills are Virtualisation, Infrastructure (On Prem / Cloud), Security, Automation, Micorsoft & Linux stacks.
+- 💬 My Soft Skills include successfully leading teams and mentoring team members as well as organised, clean documentation.
 - 💬 Ask me about **IT Tech**, **Secuirty**  
 - 🎨 In 2022 I started creating resin mould's. still honing in on that skill.
